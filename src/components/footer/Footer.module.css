@@ -1,0 +1,15 @@
+.wrapper{
+    padding: 2rem;
+    background-color:#004D40;
+    color:white
+}
+.section1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.section2{
+    margin-top: 2rem;
+text-align: center;    
+}

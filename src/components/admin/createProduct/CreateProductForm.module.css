@@ -1,0 +1,21 @@
+.productFormContainer {
+    background-color: #80CBC4;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .productFormContainer input {
+    margin-bottom: 10px;
+    padding: 8px;
+    border-radius: 4px;
+  }
+  
+  .productFormContainer button {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    background-color: #00897B;
+    color: #fff;
+  }
+  

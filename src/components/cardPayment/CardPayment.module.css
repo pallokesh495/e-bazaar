@@ -1,0 +1,15 @@
+.wrapper{
+    width: 40%;
+    height: 40%;
+    background-color: white;
+    margin: auto;
+    border-radius: 1rem;
+    box-shadow: 1rem 0 1rem  0 black;
+    padding: 2rem;
+    
+}
+.input{
+    width: 93%;
+    margin: 0.8rem;
+}
+

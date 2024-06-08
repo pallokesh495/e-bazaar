@@ -1,0 +1,27 @@
+.orderListContainer {
+    background-color: #80CBC4;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .orderListContainer h2 {
+    color: #004D40;
+  }
+  
+  .orderListContainer ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .orderListContainer li {
+    background-color: #4DB6AC;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+  }
+  
+  .orderListContainer li:hover {
+    background-color: #00897B;
+  }
+  

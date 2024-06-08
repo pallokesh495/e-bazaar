@@ -1,0 +1,25 @@
+.wrapper{
+    margin-top: 8rem;
+    flex-grow: 1;
+    display: flex;
+    justify-content: space-around;
+}
+.filter{
+   position: fixed;
+   left: 5rem;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    width:20%;
+    height: 20rem;
+    padding: 5rem;
+}
+
+  .grid_container{
+    width:100%;
+    padding: 0 0 1rem 20rem; 
+    overflow-y:auto;
+    display: grid;
+    grid-template-columns: repeat(4,1fr); 
+    grid-gap: 2rem; 
+  }
+  

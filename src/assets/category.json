@@ -1,0 +1,199 @@
+[{
+  "id": 1,
+  "category": "Electronics",
+  "name": "Laptop",
+  "price": 999,
+  "brand": "Dell",
+  "description": "Powerful laptop for professional use.",
+  "image": "laptop.jpg",
+  "quantity":1
+},
+{
+  "id": 2,
+  "category": "Electronics",
+  "name": "Smartphone",
+  "price": 599,
+  "brand": "Samsung",
+  "description": "High-performance smartphone with advanced features.",
+  "image": "smartphone.jpg",
+  "quantity":1
+},
+{
+  "id": 3,
+  "category": "Electronics",
+  "name": "Tablet",
+  "price": 299,
+  "brand": "Apple",
+  "description": "Slim and lightweight tablet for entertainment and productivity.",
+  "image": "tablet.jpg",
+  "quantity":1
+},
+{
+  "id": 4,
+  "category": "Electronics",
+  "name": "Smartwatch",
+  "price": 199,
+  "brand": "Fitbit",
+  "description": "Track your fitness and receive notifications with this stylish smartwatch.",
+  "image": "smartwatch.jpg",
+  "quantity":1
+},
+{
+  "id": 5,
+  "category": "Electronics",
+  "name": "Wireless Earbuds",
+  "price": 129,
+  "brand": "Apple",
+  "description": "Immersive sound and comfortable fit with wireless convenience.",
+  "image": "earbuds.jpg",
+  "quantity":1
+},
+{
+  "id": 11,
+  "category": "Clothing",
+  "name": "T-Shirt",
+  "price": 20,
+  "brand": "Nike",
+  "description": "Comfortable and stylish T-shirt.",
+  "image": "tshirt.jpg",
+  "quantity":1
+},
+{
+  "id": 12,
+  "category": "Clothing",
+  "name": "Jeans",
+  "price": 50,
+  "brand": "Levi's",
+  "description": "Classic denim jeans for everyday wear.",
+  "image": "jeans.jpg",
+  "quantity":1
+},
+{
+  "id": 13,
+  "category": "Clothing",
+  "name": "Dress Shirt",
+  "price": 40,
+  "brand": "Calvin Klein",
+  "description": "Formal shirt for professional occasions.",
+  "image": "shirt.jpg",
+  "quantity":1
+},
+{
+  "id": 14,
+  "category": "Clothing",
+  "name": "Hoodie",
+  "price": 35,
+  "brand": "Adidas",
+  "description": "Warm and cozy hoodie for casual outings.",
+  "image": "hoodie.jpg",
+  "quantity":1
+},
+{
+  "id": 15,
+  "category": "Clothing",
+  "name": "Sweatpants",
+  "price": 30,
+  "brand": "Under Armour",
+  "description": "Comfortable sweatpants for workouts or lounging.",
+  "image": "sweatpants.jpg",
+  "quantity":1
+},{
+  "id": 21,
+  "category": "Home & Kitchen",
+  "name": "Coffee Maker",
+  "price": 40,
+  "brand": "Keurig",
+  "description": "Brew delicious coffee at home with ease.",
+  "image": "coffeemaker.jpg",
+  "quantity":1
+},
+{
+  "id": 22,
+  "category": "Home & Kitchen",
+  "name": "Cookware Set",
+  "price": 100,
+  "brand": "Cuisinart",
+  "description": "High-quality cookware set for your kitchen.",
+  "image": "cookwareset.jpg",
+  "quantity":1
+},
+{
+  "id": 23,
+  "category": "Home & Kitchen",
+  "name": "Blender",
+  "price": 50,
+  "brand": "Ninja",
+  "description": "Versatile blender for smoothies, shakes, and more.",
+  "image": "blender.jpg",
+  "quantity":1
+},
+{
+  "id": 24,
+  "category": "Home & Kitchen",
+  "name": "Microwave Oven",
+  "price": 80,
+  "brand": "Panasonic",
+  "description": "Convenient microwave oven for quick heating and cooking.",
+  "image": "microwave.jpg",
+  "quantity":1
+},
+{
+  "id": 25,
+  "category": "Home & Kitchen",
+  "name": "Toaster",
+  "price": 30,
+  "brand": "Hamilton Beach",
+  "description": "Toast bread and bagels to perfection with this toaster.",
+  "image": "toaster.jpg",
+  "quantity":1
+},{
+  "id": 31,
+  "category": "Books",
+  "name": "The Great Gatsby",
+  "price": 15,
+  "author": "F. Scott Fitzgerald",
+  "description": "Classic novel set in the Roaring Twenties.",
+  "image": "gatsby.jpg",
+  "quantity":1
+},
+{
+  "id": 32,
+  "category": "Books",
+  "name": "The Catcher in the Rye",
+  "price": 12,
+  "author": "J.D. Salinger",
+  "description": "Seminal coming-of-age novel.",
+  "image": "catcher.jpg",
+  "quantity":1
+},
+{
+  "id": 33,
+  "category": "Books",
+  "name": "1984",
+  "price": 10,
+  "author": "George Orwell",
+  "description": "Dystopian novel exploring themes of totalitarianism and surveillance.",
+  "image": "1984.jpg",
+  "quantity":1
+},
+{
+  "id": 34,
+  "category": "Books",
+  "name": "Pride and Prejudice",
+  "price": 8,
+  "author": "Jane Austen",
+  "description": "Beloved romance novel set in 19th-century England.",
+  "image": "prideprejudice.jpg",
+  "quantity":1
+},
+{
+  "id": 35,
+  "category": "Books",
+  "name": "To Kill a Mockingbird",
+  "price": 12,
+  "author": "Harper Lee",
+  "description": "Compelling novel about racial injustice and morality.",
+  "image": "mockingbird.jpg",
+  "quantity":1
+}
+]

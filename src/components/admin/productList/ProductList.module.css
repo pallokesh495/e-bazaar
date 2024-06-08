@@ -1,0 +1,48 @@
+.productListContainer {
+    background-color: #80CBC4;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .productListContainer input {
+    margin-bottom: 10px;
+    padding: 8px;
+    border-radius: 4px;
+  }
+  
+  .productListContainer button {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    background-color: #00897B;
+    color: #fff;
+  }
+  
+  .productListContainer {
+    background-color: #4DB6AC;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .productListContainer h2 {
+    color: #004D40;
+  }
+  
+  .productListContainer ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .productListContainer li {
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+  }
+  
+  .productListContainer li:hover {
+    background-color: #00897B;
+    color: #fff;
+  }
+  
