@@ -1,7 +1,6 @@
 package com.lokesh.ebazaar.model;
 import jakarta.persistence.*;
 import lombok.Data;
-
 import java.time.LocalDateTime;
 
 @Entity
